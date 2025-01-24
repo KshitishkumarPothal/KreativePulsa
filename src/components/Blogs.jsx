@@ -1,11 +1,14 @@
 import React from 'react'
+import b1 from "../pic/blog-1.png"
+import b2 from "../pic/blog-2.png"
+import b3 from "../pic/blog-3.png"
 
 
 const Blogs = () => {
   const blogs = [
-    { id: 1, tittle:"let's create a website", image:"pic/blog-1.png"},
-    { id: 2, tittle:"how's digital market work", image:"pic/blog-2.png"},
-    { id: 3, tittle:"let's increase your revinue", image:"pic/blog-3.png"},
+    { id: 1, tittle:"let's create a website", image: b1},
+    { id: 2, tittle:"how's digital market work", image:b2},
+    { id: 3, tittle:"let's increase your revinue", image:b3},
 ];
   return (
     <div>
