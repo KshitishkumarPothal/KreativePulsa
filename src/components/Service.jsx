@@ -1,14 +1,28 @@
 import React from 'react'
+import l1 from '../pic/logo-11.png'
+import l2 from '../pic/logo-21.png'
+import l3 from '../pic/logo-31.png'
+import l4 from '../pic/logo-41.png'
+import l5 from '../pic/logo-51.png'
+import l6 from '../pic/logo-61.png'
+import s1 from '../pic/service-11.png'
+import s2 from '../pic/service-21.png'
+import s3 from '../pic/service-31.png'
+import s4 from '../pic/service-41.png'
+import s5 from '../pic/service-51.png'
+import s6 from '../pic/service-61.png'
+import s7 from '../pic/service-71.png'
+
 
 const Service = () => {
   
-const services = [{id : 1,tittle : "Business Strategy Consulting" ,description:"Helping clients define their long-term goals, formulate strategies, and make informed decisions to achieve sustainable growth.", image:"pic/service-11.png"},
-                  {id : 2,tittle : "Financial Advisory Services" ,description:"Assisting with financial planning, budgeting, forecasting, and investment strategies to optimize financial performance.", image:"pic/service-21.png"},
-                  {id : 3,tittle : "Human Resources Consulting" ,description:"Offering guidance on HR policies, talent acquisition, performance management, and employee development", image:"pic/service-31.png"},
-                  {id : 4,tittle : "Marketing and Branding Consulting" ,description:"Creating marketing strategies, brand positioning, and customer acquisition plans to boost brand awareness and sales.", image:"pic/service-41.png"},
-                  {id : 5,tittle : "Risk Management and Compliance" ,description:"Helping businesses identify and mitigate risks, ensuring they comply with regulations and industry standards.", image:"pic/service-51.png"},
-                  {id : 6,tittle : "Sales and Revenue Growth Strategies" ,description:"Developing sales and revenue growth plans, including sales training and channel optimization", image:"pic/service-61.png"},
-                  {id : 7,tittle : "International Expansion" ,description:"Providing guidance on entering global markets and navigating international business.", image:"pic/service-71.png"},
+const services = [{id : 1,tittle : "Business Strategy Consulting" ,description:"Helping clients define their long-term goals, formulate strategies, and make informed decisions to achieve sustainable growth.", image:s1},
+                  {id : 2,tittle : "Financial Advisory Services" ,description:"Assisting with financial planning, budgeting, forecasting, and investment strategies to optimize financial performance.", image:s2},
+                  {id : 3,tittle : "Human Resources Consulting" ,description:"Offering guidance on HR policies, talent acquisition, performance management, and employee development", image:s3},
+                  {id : 4,tittle : "Marketing and Branding Consulting" ,description:"Creating marketing strategies, brand positioning, and customer acquisition plans to boost brand awareness and sales.", image:s4},
+                  {id : 5,tittle : "Risk Management and Compliance" ,description:"Helping businesses identify and mitigate risks, ensuring they comply with regulations and industry standards.", image:s5},
+                  {id : 6,tittle : "Sales and Revenue Growth Strategies" ,description:"Developing sales and revenue growth plans, including sales training and channel optimization", image:s6},
+                  {id : 7,tittle : "International Expansion" ,description:"Providing guidance on entering global markets and navigating international business.", image:s7},
                 ]
                 
 
@@ -20,12 +34,12 @@ const services = [{id : 1,tittle : "Business Strategy Consulting" ,description:"
        </div>
        {/* company logo */}
        <div className='my=12 flex flex-wrap justify-between items-center gap-8 '>
-        <img src="pic\logo-11.png" height={100} width={100} alt="" />
-        <img src="pic\logo-21.png" height={100} width={100} alt="" />
-        <img src="pic\logo-31.png" height={100} width={100} alt="" />
-        <img src="pic\logo-41.png" height={100} width={100} alt="" />
-        <img src="pic\logo-51.png" height={100} width={100} alt="" />
-        <img src="pic\logo-61.png" height={100} width={100} alt="" /> 
+        <img src={l1} height={100} width={100} alt="" />
+        <img src={l2} height={100} width={100} alt="" />
+        <img src={l3} height={100} width={100} alt="" />
+        <img src={l4} height={100} width={100} alt="" />
+        <img src={l5} height={100} width={100} alt="" />
+        <img src={l6} height={100} width={100} alt="" /> 
 
        </div>
        {/* service card */}
