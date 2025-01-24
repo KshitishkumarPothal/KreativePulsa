@@ -43,7 +43,7 @@ const About = () => {
                    <div className='space-y-8 '>
                       <div className='flex items-center gap-8 '>
 
-                        <img src="src\pic\status-11.png" width={100} height={100} alt="" />
+                        <img src="pic\status-11.png" width={100} height={100} alt="" />
                            <div>
                                <h4 className='text-2xl font-semibold text-neurralDGrey'>14,523</h4>
                                <p>Members</p>
@@ -53,7 +53,7 @@ const About = () => {
 
                       <div className='flex items-center gap-8 '>
 
-                        <img src="src\pic\status-21.png"  width={100} height={100} alt="" />
+                        <img src="pic\status-21.png"  width={100} height={100} alt="" />
                            <div>
                                <h4 className='text-2xl font-semibold text-neurralDGrey'>250+</h4>
                                <p>Partnership</p>
@@ -67,7 +67,7 @@ const About = () => {
                     <div className='space-y-8 '>
                       <div className='flex items-center gap-8 '>
 
-                        <img src="src\pic\status-6.png"  width={100} height={100} alt="" />
+                        <img src="pic\status-6.png"  width={100} height={100} alt="" />
                            <div>
                                <h4 className='text-2xl font-semibold text-neurralDGrey'>100M+</h4>
                                <p>Revinue</p>
@@ -77,7 +77,7 @@ const About = () => {
 
                       <div className='flex items-center gap-8 '>
 
-                        <img src="src\pic\status-51.png"  width={100} height={100} alt="" />
+                        <img src="pic\status-51.png"  width={100} height={100} alt="" />
                            <div>
                                <h4 className='text-2xl font-semibold text-neurralDGrey'>50+</h4>
                                <p>Branches</p>
