@@ -3,9 +3,9 @@ import React from 'react'
 
 const Blogs = () => {
   const blogs = [
-    { id: 1, tittle:"let's create a website", image:"src/pic/blog-1.png"},
-    { id: 2, tittle:"how's digital market work", image:"src/pic/blog-2.png"},
-    { id: 3, tittle:"let's increase your revinue", image:"src/pic/blog-3.png"},
+    { id: 1, tittle:"let's create a website", image:"pic/blog-1.png"},
+    { id: 2, tittle:"how's digital market work", image:"pic/blog-2.png"},
+    { id: 3, tittle:"let's increase your revinue", image:"pic/blog-3.png"},
 ];
   return (
     <div>
