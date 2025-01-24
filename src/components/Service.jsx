@@ -20,12 +20,12 @@ const services = [{id : 1,tittle : "Business Strategy Consulting" ,description:"
        </div>
        {/* company logo */}
        <div className='my=12 flex flex-wrap justify-between items-center gap-8 '>
-        <img src="src\pic\logo-11.png" height={100} width={100} alt="" />
-        <img src="src\pic\logo-21.png" height={100} width={100} alt="" />
-        <img src="src\pic\logo-31.png" height={100} width={100} alt="" />
-        <img src="src\pic\logo-41.png" height={100} width={100} alt="" />
-        <img src="src\pic\logo-51.png" height={100} width={100} alt="" />
-        <img src="src\pic\logo-61.png" height={100} width={100} alt="" /> 
+        <img src="pic\logo-11.png" height={100} width={100} alt="" />
+        <img src="pic\logo-21.png" height={100} width={100} alt="" />
+        <img src="pic\logo-31.png" height={100} width={100} alt="" />
+        <img src="pic\logo-41.png" height={100} width={100} alt="" />
+        <img src="pic\logo-51.png" height={100} width={100} alt="" />
+        <img src="pic\logo-61.png" height={100} width={100} alt="" /> 
 
        </div>
        {/* service card */}
