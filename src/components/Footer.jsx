@@ -13,7 +13,7 @@ const MyFooter = () => {
           
           <div className='flex items-center justify-between gap-8 text-base'>
             <a href="" className='text-2*1 font-semibold flex items-center space-x-0' >
-                <img src='src\pic\logo213.png' className='items-center inline-block w-20' alt="logo" />
+                <img src='pic\logo213.png' className='items-center inline-block w-20' alt="logo" />
                 <span className='text-[#141c22]'>KreativePulse</span>
             </a>
           </div>
