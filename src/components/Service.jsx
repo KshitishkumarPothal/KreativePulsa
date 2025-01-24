@@ -2,13 +2,13 @@ import React from 'react'
 
 const Service = () => {
   
-const services = [{id : 1,tittle : "Business Strategy Consulting" ,description:"Helping clients define their long-term goals, formulate strategies, and make informed decisions to achieve sustainable growth.", image:"src/pic/service-11.png"},
-                  {id : 2,tittle : "Financial Advisory Services" ,description:"Assisting with financial planning, budgeting, forecasting, and investment strategies to optimize financial performance.", image:"src/pic/service-21.png"},
-                  {id : 3,tittle : "Human Resources Consulting" ,description:"Offering guidance on HR policies, talent acquisition, performance management, and employee development", image:"src/pic/service-31.png"},
-                  {id : 4,tittle : "Marketing and Branding Consulting" ,description:"Creating marketing strategies, brand positioning, and customer acquisition plans to boost brand awareness and sales.", image:"src/pic/service-41.png"},
-                  {id : 5,tittle : "Risk Management and Compliance" ,description:"Helping businesses identify and mitigate risks, ensuring they comply with regulations and industry standards.", image:"src/pic/service-51.png"},
-                  {id : 6,tittle : "Sales and Revenue Growth Strategies" ,description:"Developing sales and revenue growth plans, including sales training and channel optimization", image:"src/pic/service-61.png"},
-                  {id : 7,tittle : "International Expansion" ,description:"Providing guidance on entering global markets and navigating international business.", image:"src/pic/service-71.png"},
+const services = [{id : 1,tittle : "Business Strategy Consulting" ,description:"Helping clients define their long-term goals, formulate strategies, and make informed decisions to achieve sustainable growth.", image:"pic/service-11.png"},
+                  {id : 2,tittle : "Financial Advisory Services" ,description:"Assisting with financial planning, budgeting, forecasting, and investment strategies to optimize financial performance.", image:"pic/service-21.png"},
+                  {id : 3,tittle : "Human Resources Consulting" ,description:"Offering guidance on HR policies, talent acquisition, performance management, and employee development", image:"pic/service-31.png"},
+                  {id : 4,tittle : "Marketing and Branding Consulting" ,description:"Creating marketing strategies, brand positioning, and customer acquisition plans to boost brand awareness and sales.", image:"pic/service-41.png"},
+                  {id : 5,tittle : "Risk Management and Compliance" ,description:"Helping businesses identify and mitigate risks, ensuring they comply with regulations and industry standards.", image:"pic/service-51.png"},
+                  {id : 6,tittle : "Sales and Revenue Growth Strategies" ,description:"Developing sales and revenue growth plans, including sales training and channel optimization", image:"pic/service-61.png"},
+                  {id : 7,tittle : "International Expansion" ,description:"Providing guidance on entering global markets and navigating international business.", image:"pic/service-71.png"},
                 ]
                 
 
