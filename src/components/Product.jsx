@@ -25,7 +25,7 @@ const Product = () => {
         <div className='px-4 py-16 mx-auto lg:px-14 max-w-screen-2xl bg-neutralSilver'>
           <div className='flex flex-col items-center justify-between gap-auto md:flex-row'>
                <div className=' md:w-1/3'>
-                    <img src="src\pic\logo12.png" className='balb'  alt="" />
+                    <img src="pic\logo12.png" className='balb'  alt="" />
                </div>
                <div className='mx-auto md:w-2/3'>
                     <div>
@@ -43,11 +43,11 @@ const Product = () => {
                          <p className='mb-5 text-base text-neurralDGrey'>Creater of KreativePulse</p>
                          <div>
                               <div className='flex flex-wrap items-center gap-8'>
-                                   <img src="src\pic\company-1.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="src\pic\company-2.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="src\pic\company-3.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="src\pic\company-4.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="src\pic\company-5.png" width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src="pic\company-1.png" width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src="pic\company-2.png" width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src="pic\company-3.png" width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src="pic\company-4.png" width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src="pic\company-5.png" width={50} height={50} className='curser-pointer' alt="" />
                                    <div className='flex items-center gap-8'>
                                         <a href="/" className='font-bold text-brandPrimary hover:text-neurralDGrey'>Meet all customer{" "}
                                         <svg xmlns="http://www.w3.org/2000/svg"
