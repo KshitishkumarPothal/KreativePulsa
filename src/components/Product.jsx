@@ -1,5 +1,11 @@
 import React from 'react'
 import product from '../pic/product.png'
+import c1 from '../pic/company-1.png'
+import c2 from '../pic/company-2.png'
+import c3 from '../pic/company-3.png'
+import c4 from '../pic/company-4.png'
+import c5 from '../pic/company-5.png'
+
 
 const Product = () => {
   return (
@@ -43,11 +49,11 @@ const Product = () => {
                          <p className='mb-5 text-base text-neurralDGrey'>Creater of KreativePulse</p>
                          <div>
                               <div className='flex flex-wrap items-center gap-8'>
-                                   <img src="pic\company-1.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="pic\company-2.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="pic\company-3.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="pic\company-4.png" width={50} height={50} className='curser-pointer' alt="" />
-                                   <img src="pic\company-5.png" width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src={c1} width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src={c2} width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src={c3} width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src={c4} width={50} height={50} className='curser-pointer' alt="" />
+                                   <img src={c5} width={50} height={50} className='curser-pointer' alt="" />
                                    <div className='flex items-center gap-8'>
                                         <a href="/" className='font-bold text-brandPrimary hover:text-neurralDGrey'>Meet all customer{" "}
                                         <svg xmlns="http://www.w3.org/2000/svg"
